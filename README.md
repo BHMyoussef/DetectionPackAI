@@ -1,7 +1,11 @@
-to run the project
+<b>To run the project</b> follow this steps:
 
-pip install -r requirements.txt
-download the Data from " src "
-place it in the root folder
-run th training model "train_main.py"
-run the test "test_main"
+1- Run: pip install -r requirements.txt
+
+2- Download the Data from " src "
+
+3- Place the folder <i>"AIData"</i> it in the root folder
+
+4- Run the training model: <i>"train_main.py"</i>
+
+5- Run the test: <i>"test_main"</i>
