@@ -2,7 +2,7 @@
 
 1- Run: pip install -r requirements.txt
 
-2- Download the Data from " src "
+2- Download the Data from "https://drive.google.com/drive/folders/1eoNP1aTsFotSKgyHGmAFSazf_msASC6o?usp=sharing"
 
 3- Place the folder <i>"AIData"</i> it in the root folder
 
